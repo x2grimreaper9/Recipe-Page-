@@ -1,2 +1,2 @@
-# Recipe-Page-
-This is my second project and this time, i was told to make a recipe page but i got instructions without the code not like with the cat photo app, where i had code line hints. 
+# Recipe-Page
+This is my second project, and this time, I was told to create a recipe page, but I received instructions without the code. Unlike the cat photo app, where I had code line hints. 
